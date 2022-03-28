@@ -3,6 +3,8 @@
 Authors:
 Raymond Chiasson
 Christopher Holiday
+
+Writing assistance:
 Zeeshan Hassan
 
 ECO3400
